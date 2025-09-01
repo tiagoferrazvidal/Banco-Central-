@@ -8,7 +8,7 @@ O objetivo é simular como cientistas de dados em bancos usam dados para
 **avaliar risco de crédito** e apoiar decisões estratégicas.
 
 ## 🔍 Objetivos
-- Explorar dados fictícios modelados a partir da estrutura do SCR.
+- Explorar dados reais e públicos  modelados a partir da estrutura do SCR (Sistema de Informações de Crédito).
 - Identificar padrões de risco e inadimplência.
 - Criar visualizações financeiras intuitivas.
 - Demonstrar boas práticas de análise de dados em Python.
